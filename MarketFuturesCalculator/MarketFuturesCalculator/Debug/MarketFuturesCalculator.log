@@ -1,0 +1,8 @@
+﻿  MarketFuturesCalculator.cpp
+C:\Users\krzys\source\repos\MarketFuturesCalculator\MarketFuturesCalculator\MarketFuturesCalculator.cpp(33,33): warning C4101: 'maxt4': unreferenced local variable
+C:\Users\krzys\source\repos\MarketFuturesCalculator\MarketFuturesCalculator\MarketFuturesCalculator.cpp(35,9): warning C4101: 'maxt5': unreferenced local variable
+C:\Users\krzys\source\repos\MarketFuturesCalculator\MarketFuturesCalculator\MarketFuturesCalculator.cpp(33,26): warning C4101: 'maxt3': unreferenced local variable
+C:\Users\krzys\source\repos\MarketFuturesCalculator\MarketFuturesCalculator\MarketFuturesCalculator.cpp(33,12): warning C4101: 'maxt1': unreferenced local variable
+C:\Users\krzys\source\repos\MarketFuturesCalculator\MarketFuturesCalculator\MarketFuturesCalculator.cpp(33,19): warning C4101: 'maxt2': unreferenced local variable
+C:\Users\krzys\source\repos\MarketFuturesCalculator\MarketFuturesCalculator\MarketFuturesCalculator.cpp(35,16): warning C4101: 'maxt6': unreferenced local variable
+  MarketFuturesCalculator.vcxproj -> C:\Users\krzys\source\repos\MarketFuturesCalculator\Debug\MarketFuturesCalculator.exe
